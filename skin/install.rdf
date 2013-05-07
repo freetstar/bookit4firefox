@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+	<Description about="urn:mozilla:install-manifest">
+		<em:id>lgxwqq@gmail.com</em:id>
+		<em:name>bookit</em:name>
+		<em:version>1.0</em:version>
+		<em:type>2</em:type>
+		<em:creator>freetstar</em:creator>
+		<em:description>get chinese university library bookinfo</em:description>
+		<em:homepageURL>http://www.freetstar.com/</em:homepageURL>
+        <em:optionsURL>chrome://bookit/content/options.xul</em:optionsURL>
+
+		<em:targetApplication>
+			<Description>
+				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+				<em:minVersion>4.0</em:minVersion>
+				<em:maxVersion>22</em:maxVersion>
+			</Description>
+		</em:targetApplication>
+	</Description>      
+</RDF>

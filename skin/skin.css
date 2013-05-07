@@ -1,0 +1,12 @@
+#bookit-toolbar-button {
+	list-style-image: url("chrome://bookit/skin/toolbar-large.png");
+}
+
+#bookit-status-bar-icon {
+	width: 83px;
+	margin: 0 5px;
+}
+
+.bookit-selected {
+	outline: 2px solid red !important;
+}
